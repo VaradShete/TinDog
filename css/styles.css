@@ -1,0 +1,196 @@
+
+.arrow-up{
+    margin-left: 1000px;
+}
+
+.footer-icon{
+    padding: 1rem;
+}
+
+.icon-foot{
+    padding: 0.5rem;
+}
+
+#footer{
+    text-align: center;
+    padding: 100px;
+    background-color: white;
+
+}
+
+#cta{
+    text-align: center;
+    background-color: #ff4c68;
+    padding: 150px;
+
+}
+
+.cta-text{
+    font-family: 'Montserrat', sans-serif;
+    color: white;
+    height: 50px;
+}
+
+#title {
+    background-color: #ff4c68;
+    color: white;
+}
+h1 {
+    font-family: 'Montserrat', sans-serif;
+    size: 3.5rem;
+    line-height: 1.5;   
+}
+
+
+p{
+    color: #8f8f8f;
+}
+
+h2{
+    font-family: 'Montserrat', sans-serif;  
+    font-size: 2.5rem;
+}
+
+h3{
+    font-family: 'Montserrat', sans-serif;
+    font-size: 1.5rem;
+    font-;
+
+}
+.container-fluid{
+    padding: 3% 15%;
+}
+body{
+    font-family: 'Montserrat', sans-serif;
+}
+
+/* press */
+
+#press{
+    background-color: #ef8172;
+    text-align: center;
+    padding-bottom: 3%;
+}
+
+.press-logo{
+    width: 15%;
+    margin: 20px 20px 50px;
+}
+
+/* Pricing */
+
+.price-section{
+    padding: 100px;
+}
+
+#pricing{
+   padding: 100px;
+}
+
+.internal-text{
+    text-align: center;
+}
+
+.pricing-align{
+    text-align: center;
+}
+
+/* Testomonials */
+
+.image-dog{
+    
+    width: 10%;
+    border-radius: 100%;
+    margin: 20px
+}
+
+#testimonials{
+    
+    text-align: center;
+    background-color: #ef8172;
+    color: white;
+}
+.carousel-item{
+    padding: 7% 15%;
+}
+
+/* Features */
+
+.icon{
+    color: #ef8172;
+    margin-bottom: 1rem;
+}
+
+.icon:hover{
+    color:  #ff4c68;
+}
+
+#features{
+    padding: 10% 15%;
+}
+
+#features{
+    background-color: white;
+    position: relative;
+    z-index: 1;   
+}
+.feature-box{
+    text-align: center;
+    /* padding:  5%; */
+}
+
+/* Navigatio Bar */
+
+.navbar{
+    padding-bottom: 4.5rem ;
+    padding: 0 0 2.5rem 0;
+}
+
+.navbar-brand{
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-size: 2.5rem;
+    font-weight: 100;
+}
+.nav-item{
+    padding: 0 18px;
+}
+.nav-link{
+    font-size: 1.2rem;
+    font-family: 'Montserrat-light', sans-serif;
+    font-weight: ;
+}
+
+/* Download Button */
+
+.download-btn{
+   margin: 5% 3% 5% 0;
+}
+
+/* title image */
+
+.title-image{
+    width: 60%;
+    transform: rotate(25deg);
+
+}
+
+
+#title{
+    text-align: center;
+}
+
+@media (max-width: 1028px) {
+
+.title-image{
+   position: static;
+   transform: rotate(0);
+}
+
+.footer-btn{
+    padding-top: 50px;
+}
+
+.down-btn{
+    margin-top: 30px;
+}
+
